@@ -1,20 +1,20 @@
 # Chatbot
 
 Create a folder 
-mkdir myproject
-$ cd myproject
-Create an environment
-Whatever you prefer (e.g. conda or venv)
-$ python3 -m venv venv
+mkdir myproject<br>
+$ cd myproject<br>
+Create an environment<br>
+Whatever you prefer (e.g. conda or venv)<br>
+$ python3 -m venv venv<br>
 
 
-Activate it
-Mac / Linux:
-. venv/bin/activate
-Windows:
-venv\Scripts\activate
+Activate it<br>
+Mac / Linux:<br>
+. venv/bin/activate<br>
+Windows:<br>
+venv\Scripts\activate<br>
 
-Install PyTorch and dependencies
+Install PyTorch and dependencies<br><br>
 For Installation of PyTorch see official website.<br>
 
-pip install nltk
+pip install nltk<br>
